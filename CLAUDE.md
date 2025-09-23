@@ -126,6 +126,12 @@ Follow TDD practices whenever possible:
 - End-to-end tests for critical user flows
 - Maintain high test coverage (aim for >80%)
 
+### When working you MUST FOLLOW the following Architecture Principals:  
+- KISS (Keep It Simple, Stupid)
+- YAGNI (You Aren't Gonna Need It)
+- SOLID Principles
+- TTD (Test Driven Development)
+
 ## Workflow Summary
 
 1. **Receive Jira ticket** → Research codebase and problem domain
